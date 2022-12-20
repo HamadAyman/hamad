@@ -1,4 +1,4 @@
 # hamad
-my project 
-I do scrapping for name of all boys at 
-the elmo7eit site
+my project:
+I am using python for web scrapping for names of each boy at 
+the elmo7eit website
